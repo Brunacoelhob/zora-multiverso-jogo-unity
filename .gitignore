@@ -1,0 +1,39 @@
+# Pastas geradas pela Unity (recriadas automaticamente ao abrir o projeto)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build do jogo (o executável vai zipado na entrega, não no repositório)
+/[Bb]uild/
+/[Bb]uilds/
+*.zip
+
+# Arquivos de IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Outros
+*.apk
+*.aab
+crashlytics-buildid.txt
+sysinfo.txt
+.DS_Store
+Thumbs.db
+__pycache__/
